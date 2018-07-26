@@ -1,2 +1,1 @@
-# akka-http
-# typelevel_programming
+# typelevel programming in scala
