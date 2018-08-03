@@ -1,7 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/cosimoranieri/IdeaProjects/provider/src/main/scala/WebServer.scala:37:67: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : test.ValidatedPaymentSubmission[test.Invalid.type] => scala.util.Try[test.SanitisedPaymentSubmission[test.Sanitised.type]][0m
-[0m[[0m[31merror[0m] [0m[0m required: test.PaymentSubmissionService.SanitisePaymentSubmission[0m
-[0m[[0m[31merror[0m] [0m[0m    (which expands to)  test.ValidatedPaymentSubmission[test.Valid.type] => scala.util.Try[test.SanitisedPaymentSubmission[test.Sanitised.type]][0m
-[0m[[0m[31merror[0m] [0m[0m    (paymentSubmission: ValidatedPaymentSubmission[Invalid.type]) => {[0m
-[0m[[0m[31merror[0m] [0m[0m                                                                  ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
